@@ -1,0 +1,101 @@
+ISBN,Book_title,Category,Rental_Price,Status,Author,Publisher,Published_year,Purchase_date,Purchase_price,Branch_no,Shelf_location
+978-620-59019-4,The Dark Legacy,Business,8.11,Issued,Mary Williams,Wiley,2023,2014-08-14,20.82,1,SCI-A19
+978-156-27474-5,The Lost Ocean,Psychology,7.57,Issued,Barbara Moore,Simon & Schuster,1965,2023-11-15,15.77,1,FAN-D14
+978-500-97118-2,The Eternal City,Business,3.42,Available,David Wilson,Houghton Mifflin,1891,2022-11-23,16.58,3,SCI-C14
+978-488-64603-3,The Final Journey,Cooking,4.93,Issued,Patricia Johnson,Oxford University Press,2009,2016-05-17,14.18,3,FIC-D6
+978-993-17487-1,The Great Journey,Philosophy,1.58,Available,Robert Lopez,Elsevier,1889,2011-02-23,49.77,3,SCI-A18
+978-331-55193-2,The Final Ocean,Business,5.44,Available,Patricia Moore,Wiley,1824,2023-01-03,27.68,1,ART-C17
+978-284-79336-5,The Lost Kingdom,Fantasy,4.0,Available,Joseph Martin,Simon & Schuster,1874,2019-08-27,28.96,2,BUS-A7
+978-204-89462-3,The Secret World,Education,7.61,Available,Robert Jones,Taylor & Francis,2020,2017-04-26,24.24,3,TRA-D6
+978-468-53861-9,The Hidden Quest,Poetry,9.69,Available,Sarah Jones,Springer,1874,2021-10-10,5.53,3,TRA-C5
+978-479-82693-2,Crimson Dawn,Fantasy,1.32,Available,William Martinez,Oxford University Press,1890,2023-07-31,24.68,2,BIO-A16
+978-558-42888-4,The Final Forest,Young Adult,6.68,Available,Thomas Johnson,Penguin Random House,1887,2017-02-16,10.81,1,BUS-A14
+978-982-18274-9,The Lost World,Psychology,1.68,Available,Karen Rodriguez,Springer,1870,2017-03-14,12.02,3,SCI-C14
+978-898-48619-3,The Lost Ocean,Education,6.32,Issued,Joseph Wilson,Elsevier,1954,2011-05-23,31.44,2,MYS-B17
+978-221-73759-9,The Dark Ocean,Travel,5.94,Available,David Smith,Elsevier,1884,2015-03-14,20.06,2,MYS-A3
+978-782-35478-4,The Final Journey,Biography,6.49,Available,Michael Jones,Macmillan,1898,2014-05-09,6.81,2,FAN-B4
+978-915-74091-3,The Lost Journey,Memoir,5.95,Issued,James Miller,Elsevier,1999,2013-09-21,17.98,3,HIS-C12
+978-301-23706-7,The Hidden Ocean,Health,2.74,Available,Karen Rodriguez,Elsevier,1810,2018-10-05,14.61,1,BUS-B19
+978-599-85644-0,The Hidden Kingdom,Memoir,3.45,Available,Patricia Moore,Penguin Random House,1802,2020-09-30,25.62,3,BIO-B3
+978-887-61301-5,The Forgotten Kingdom,Science Fiction,6.92,Available,Patricia Garcia,Springer,1938,2017-06-29,36.21,3,BUS-B1
+978-063-25353-1,Spring Awakening,Business,4.99,Available,Karen Miller,Houghton Mifflin,1953,2011-10-25,27.08,2,BUS-C8
+978-153-23004-1,The Secret Journey,Horror,3.68,Available,Karen Davis,Oxford University Press,2016,2021-07-09,47.51,2,FAN-C4
+978-870-72229-7,Crimson Dawn,Young Adult,9.56,Available,Robert Anderson,HarperCollins,1912,2021-05-16,10.92,2,FAN-A13
+978-148-74063-2,The Mysterious World,History,5.58,Available,David Williams,Houghton Mifflin,1945,2010-11-18,21.48,1,SCI-B15
+978-390-52107-0,The Ancient Journey,Horror,1.45,Reserved,Patricia Moore,Penguin Random House,1965,2015-09-05,37.91,3,TRA-C6
+978-956-83185-6,The Mysterious Ocean,Biography,6.62,Reserved,Jessica Brown,HarperCollins,1949,2015-03-01,32.32,2,FIC-D12
+978-206-46124-7,The Ancient Legacy,Children,3.12,Available,Joseph Wilson,Cambridge University Press,1963,2014-06-08,11.63,2,SCI-B17
+978-375-84075-3,The Mysterious Empire,Romance,5.37,Issued,John Moore,Pearson,1993,2012-08-24,33.71,2,SCI-A18
+978-433-32455-0,The Dark Ocean,Classic,9.72,Available,Karen Miller,Houghton Mifflin,2001,2014-12-09,28.72,1,BIO-D19
+978-588-50644-6,The Hidden Legacy,Horror,4.77,Reserved,James Davis,Penguin Random House,2023,2020-03-21,19.87,1,SCI-A4
+978-766-85969-9,The Forgotten Ocean,Thriller,4.25,Issued,Robert Lopez,Oxford University Press,1801,2019-12-14,34.57,3,BUS-B8
+978-512-36714-7,The Great Legacy,Travel,1.5,Available,Thomas Smith,Springer,2007,2014-02-07,49.42,1,TRA-B5
+978-364-72593-5,The Hidden World,Travel,2.01,Available,Elizabeth Taylor,Elsevier,1859,2016-09-06,7.52,2,BUS-D4
+978-305-23377-9,The Hidden World,Business,2.64,Issued,Linda Garcia,Scholastic,1990,2012-07-14,37.08,2,SCI-B4
+978-177-47011-9,The Lost Forest,Young Adult,6.03,Issued,James Wilson,Pearson,1906,2021-11-29,44.93,2,FIC-C15
+978-080-67510-8,The Eternal Quest,Philosophy,1.3,Available,Patricia Thomas,Simon & Schuster,1925,2022-04-02,17.55,1,BIO-D20
+978-994-77963-9,Midnight Rain,Children,7.91,Available,Karen Rodriguez,Houghton Mifflin,1938,2014-11-01,43.26,2,HIS-D20
+978-411-12935-6,The Mysterious Quest,Religion,6.24,Issued,Mary Rodriguez,Cambridge University Press,1834,2019-06-24,47.83,1,FIC-D15
+978-513-40891-9,The Great Journey,Autobiography,3.06,Issued,Karen Smith,HarperCollins,1882,2013-08-07,13.22,2,BUS-B6
+978-282-97688-9,The Obsidian Tower,Philosophy,5.86,Issued,James Brown,Houghton Mifflin,1933,2011-05-20,11.43,2,SCI-C6
+978-058-26593-0,The Eternal Empire,Thriller,6.71,Available,Susan Moore,Macmillan,1872,2023-12-13,27.55,2,BIO-C13
+978-936-85624-7,The Eternal Kingdom,Health,7.79,Reserved,Sarah Martinez,Pearson,1958,2019-05-14,28.28,2,SCI-B9
+978-289-69401-4,The Forgotten City,Autobiography,6.0,Available,John Moore,HarperCollins,1807,2011-03-30,5.15,3,FAN-A1
+978-059-78490-3,The Iron Fortress,Biography,9.8,Available,Linda Brown,Simon & Schuster,1997,2011-12-21,9.2,2,FIC-B6
+978-889-71327-9,The Ancient World,Health,1.16,Available,Mary Moore,Hachette Book Group,1823,2015-11-05,39.13,3,BIO-A8
+978-679-89392-3,The Dark Kingdom,Art,8.76,Available,Michael Gonzalez,Macmillan,1996,2022-04-25,11.32,2,TRA-A4
+978-505-41921-2,Midnight Rain,Fiction,2.58,Available,Linda Davis,Springer,1942,2021-02-16,25.61,2,ART-B9
+978-047-90686-7,The Great City,Business,3.08,Available,Joseph Jackson,Houghton Mifflin,1934,2023-06-28,6.73,1,ART-D9
+978-079-25117-8,The Hidden City,Children,4.25,Issued,William Brown,Scholastic,1835,2011-10-14,46.46,1,SCI-D2
+978-101-23482-8,The Lost Quest,Health,9.09,Reserved,Sarah Thomas,Pearson,1953,2018-02-24,32.29,2,ART-C3
+978-097-97049-4,The Forgotten City,Autobiography,2.76,Available,Jennifer Lopez,Scholastic,1946,2018-07-17,49.56,3,FAN-C17
+978-682-39910-7,The Hidden Forest,Classic,9.96,Available,Jennifer Brown,Cambridge University Press,1886,2017-04-26,16.7,1,TRA-B3
+978-680-58313-8,The Hidden Ocean,Health,5.16,Available,Richard Lopez,Penguin Random House,1826,2011-12-31,22.29,2,SCI-D7
+978-923-80647-2,The Forgotten Journey,Religion,2.52,Available,Joseph Martin,Wiley,1895,2021-11-04,29.79,1,FIC-A20
+978-444-27677-7,The Final Ocean,Art,8.14,Available,David Wilson,Wiley,1921,2021-04-26,34.03,3,MYS-D12
+978-070-88191-3,The Mysterious Forest,Science,5.17,Issued,Barbara Miller,Elsevier,1939,2019-01-19,5.39,1,BUS-B14
+978-608-42761-2,The Hidden Ocean,Philosophy,2.19,Issued,David Smith,Taylor & Francis,1836,2019-07-04,35.47,2,SCI-D15
+978-571-10387-7,The Eternal Legacy,Poetry,8.44,Reserved,Robert Jones,Houghton Mifflin,1901,2012-09-22,8.01,1,MYS-D18
+978-469-67514-3,The Lost Ocean,Cooking,6.22,Available,Jennifer Miller,Penguin Random House,1850,2018-06-24,15.83,1,HIS-D7
+978-706-75250-5,The Forgotten Kingdom,Science,1.9,Available,Mary Jackson,Springer,2015,2011-07-05,44.78,2,BUS-A1
+978-650-52669-0,The Great City,Education,6.36,Available,John Williams,Simon & Schuster,1875,2021-05-12,27.67,1,SCI-B10
+978-829-13959-4,The Iron Fortress,Travel,9.59,Available,Joseph Wilson,Scholastic,1857,2021-10-24,8.43,1,TRA-A16
+978-868-58740-5,The Final Empire,Drama,8.39,Available,Richard Davis,Oxford University Press,1838,2012-11-29,42.31,1,ART-C5
+978-133-20105-1,The Hidden Forest,Romance,1.56,Issued,Jennifer Brown,Scholastic,1963,2010-07-28,47.18,1,SCI-C10
+978-846-18223-1,The Great Legacy,Religion,3.24,Available,Patricia Johnson,Houghton Mifflin,1862,2018-08-12,14.88,2,FAN-B5
+978-413-22083-4,The Ancient Kingdom,Business,7.02,Available,Barbara Lopez,Oxford University Press,1857,2016-05-25,13.76,3,FIC-B13
+978-150-36915-2,The Hidden Mountain,Thriller,5.17,Available,Patricia Johnson,Springer,1815,2019-09-30,40.2,2,BUS-B14
+978-402-13230-4,The Ancient Kingdom,Young Adult,9.14,Issued,Richard Lopez,Oxford University Press,1837,2020-09-13,35.9,3,FIC-B20
+978-361-54410-7,The Secret Kingdom,Poetry,6.62,Reserved,James Miller,Scholastic,1890,2020-02-28,16.81,3,BIO-D4
+978-480-92902-0,The Eternal Quest,Children,1.67,Reserved,Richard Davis,Wiley,1906,2012-03-27,27.86,3,BUS-D4
+978-114-31352-4,The Dark City,Health,4.58,Available,James Jones,Elsevier,1818,2022-04-18,31.18,1,SCI-D3
+978-302-37857-2,The Forgotten City,Horror,5.68,Available,Jennifer Miller,Scholastic,1902,2017-01-03,38.11,1,FIC-B18
+978-169-42364-0,Silent Echo,Philosophy,8.99,Available,Richard Davis,McGraw-Hill,1878,2010-04-08,18.01,1,TRA-B20
+978-624-63965-0,Beyond the Horizon,Travel,6.37,Reserved,Linda Brown,Macmillan,1913,2016-06-18,46.45,1,SCI-D1
+978-058-89481-7,The Secret Ocean,Young Adult,10.0,Reserved,Michael Moore,HarperCollins,1961,2016-04-04,10.09,1,TRA-D11
+978-510-86089-3,The Ancient Kingdom,Memoir,3.95,Available,John Moore,Simon & Schuster,1966,2021-11-23,29.21,3,ART-C18
+978-967-32825-2,The Great Kingdom,History,5.7,Available,James Johnson,Simon & Schuster,1804,2022-07-01,32.48,1,SCI-A19
+978-749-39201-7,Beyond the Horizon,History,8.71,Available,Thomas Smith,Oxford University Press,1998,2023-01-04,37.73,2,ART-D16
+978-921-45378-6,The Ancient Quest,Science,6.69,Available,Jessica Moore,Elsevier,2009,2017-05-08,9.11,2,SCI-A8
+978-992-69870-1,Spring Awakening,Technology,6.82,Available,James Brown,Elsevier,1896,2013-03-25,32.15,2,BIO-B18
+978-922-30016-2,The Forgotten Ocean,Young Adult,2.0,Issued,Richard Martinez,Taylor & Francis,1940,2020-01-19,17.41,3,TRA-D20
+978-454-48869-7,The Lost Kingdom,Technology,5.58,Available,Elizabeth Miller,Taylor & Francis,1956,2020-11-11,49.51,2,BUS-D15
+978-740-75711-6,The Ancient Legacy,Philosophy,1.35,Available,Michael Jones,Hachette Book Group,1820,2011-06-24,6.8,1,HIS-C7
+978-488-19548-7,The Dark Forest,Fiction,9.2,Available,Patricia Johnson,Elsevier,1879,2016-04-27,10.65,2,ART-B1
+978-542-13407-2,The Secret Quest,Drama,6.22,Available,Michael Moore,Taylor & Francis,1890,2017-08-30,27.18,1,FIC-B6
+978-199-90954-6,The Dark City,Art,6.97,Under Maintenance,Karen Moore,Pearson,1888,2013-03-27,48.87,2,HIS-C2
+978-770-82246-9,The Eternal Legacy,Fantasy,5.13,Issued,Linda Williams,Penguin Random House,1826,2021-11-13,10.68,1,BIO-C10
+978-783-47924-9,The Silver Lining,Self-Help,3.5,Available,Jennifer Brown,Oxford University Press,2006,2019-04-21,23.95,1,BIO-C18
+978-611-84275-3,The Dark City,Travel,3.5,Available,Patricia Johnson,Pearson,1909,2012-04-20,28.53,2,TRA-B20
+978-499-53700-5,The Hidden World,Technology,5.77,Issued,David Williams,Pearson,1865,2010-03-31,40.36,1,HIS-D14
+978-035-77393-3,The Forgotten Empire,Young Adult,2.24,Available,Patricia Rodriguez,Springer,1953,2023-04-19,38.51,2,BUS-D4
+978-573-34573-1,The Mysterious Ocean,Art,1.32,Available,Richard Lopez,Wiley,1926,2012-04-11,34.93,3,BIO-B8
+978-672-85819-1,Whispers in the Dark,Education,1.44,Available,Linda Davis,Penguin Random House,1835,2015-12-15,32.79,3,FIC-A15
+978-588-52180-7,The Dark Kingdom,Cooking,6.59,Available,Jennifer Brown,Macmillan,1946,2013-05-19,38.71,2,FIC-C7
+978-667-33005-1,The Final Legacy,Historical Fiction,2.67,Available,Michael Jackson,Wiley,1966,2022-12-15,10.78,1,SCI-A2
+978-556-46716-4,The Eternal Legacy,Mystery,6.79,Available,John Moore,Elsevier,2005,2021-04-20,6.74,2,BUS-C14
+978-159-40450-0,The Secret Kingdom,Fiction,6.88,Available,William Brown,Hachette Book Group,2013,2016-04-26,39.61,1,BUS-C8
+978-038-55304-2,The Great Forest,Biography,1.23,Available,Mary Jackson,Macmillan,1837,2019-05-30,30.57,3,SCI-D19
+978-320-99461-9,Summer's End,Religion,1.87,Available,Joseph Wilson,HarperCollins,1946,2021-01-11,16.2,1,FAN-D6
+978-620-93098-7,The Hidden Legacy,Science Fiction,3.65,Issued,Jennifer Miller,Scholastic,1877,2010-09-15,11.1,1,TRA-B3
+978-046-70608-7,The Eternal Legacy,Health,7.48,Available,Mary Moore,Penguin Random House,1891,2012-05-25,38.03,3,SCI-C9
