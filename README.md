@@ -1,6 +1,6 @@
 # Library Management System
 
-A comprehensive library management system built with Python and MySQL that handles book cataloging, customer management, issue/return operations and reservations.
+A comprehensive library management system built with Python and MySQL that handles book cataloging, customer management, issue/return operations and reservations. There has also been added a python script that produces data for the books table.
 
 ## Features
 
